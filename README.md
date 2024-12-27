@@ -1,6 +1,8 @@
 Kofi Edu Yankson
 10211100299
 B.Sc Computer Science
+
+
 E-Commerce Application
 This application is a fully functional e-commerce solution built with Next.js, Prisma, Tailwind CSS, Node.js, React, and Stripe. It features both an Admin and User portion, each with specific functionalities for managing products, orders, and user interactions.
 Features
